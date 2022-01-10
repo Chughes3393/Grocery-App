@@ -1,0 +1,49 @@
+body {
+    margin: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitesmoke
+}
+
+#create-product {
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid black;
+}
+
+.products {
+    margin: 1%;
+    display: flex;
+    border: 5px solid black;
+}
+
+.cart {
+    margin: 1%;
+    display: flex;
+    border: 5px solid purple;
+}
+
+#form {
+    margin: 1%;
+    border: 5px solid navajowhite;
+    display: flex;
+}
+
+input {
+    margin: 1%;
+    height: 2em;
+}
+
+.full_list {
+    margin: 1%;
+    display: flex;
+    border: 5px solid green;
+}
+
+.new_item {
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid olive;
+    height: 20em;
+}
